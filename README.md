@@ -16,6 +16,7 @@ I'm a third-year student in the Bachelor in Informatics and Computing Engineerin
 | [**Conference assignment**](https://github.com/Dab1d/Conference-Assignment) | Paper-to-reviewer assignment modelled as a max-flow network | C++, max-flow |
 | [**CUBO GYM**](https://github.com/FEUP-LTW-2026/ltw-project-ltw07g01) | Full-stack fitness club web app with a JSON API and role-based dashboards | PHP, SQLite, JavaScript |
 | [**Scrim**](https://github.com/andrefb26/scrim-image-processing) | Interpreter for image-processing scripts: rotations, crops, colour operations and compositing | C++17, CMake |
+| [**Olive oil store**](https://github.com/andrefb26/olive-oil-store) | Full e-commerce platform for a Portuguese olive oil producer (real client, anonymised): card, MB WAY and Multibanco payments, invoicing, role-based dashboard and a hardened security model | Node.js, Express, Prisma, Stripe |
 | [**Blind Spot**](https://github.com/andrefb26/blindspot-stealth-game) | Stealth game with ray-cast light detection, six design patterns and mutation-tested code | Java, Lanterna, JUnit, PIT |
 | [**Hero**](https://github.com/andrefb26/ldts-hero-game) | Terminal arcade game with an object-oriented design | Java, Lanterna, Gradle |
 | [**SOLID principles**](https://github.com/andrefb26/ldts-solid-principles) | Refactoring exercise applying the five SOLID design principles | Java |
