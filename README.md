@@ -1,10 +1,10 @@
-### Hi, I'm André Baptista 👋
+### Hi, I'm André Baptista 
 
 I'm a third-year student in the Bachelor in Informatics and Computing Engineering (L.EIC) at **FEUP, University of Porto**. I'm interested in **systems programming, computer networks and security**: the layers where software meets hardware and where reliability matters.
 
-- 🛰️ Member of the On-Board Computer department at **Porto Space Team**
-- 🔐 Member of the Cybersecurity department at **ACM FEUP**
-- 🤖 Teaching assistant in a school robotics course (2024–2026); 1st place, OnStage league, Portuguese National Robotics Festival 2022
+-  Member of the On-Board Computer department at **Porto Space Team**
+-  Member of the Cybersecurity department at **ACM FEUP**
+-  Teaching assistant in a school robotics course (2024–2026); 1st place, OnStage league, Portuguese National Robotics Festival 2022
 
 ### Featured projects
 
