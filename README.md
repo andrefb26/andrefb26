@@ -2,8 +2,9 @@
 
 I'm a third-year student in the Bachelor in Informatics and Computing Engineering (L.EIC) at **FEUP, University of Porto**. I'm interested in **systems programming, computer networks and security**: the layers where software meets hardware and where reliability matters.
 
--  Member of the On-Board Computer department at **Porto Space Team**
 -  Member of the Cybersecurity department at **ACM FEUP**
+-  Member of the Computer Engineering Student Group of the Faculty of Engineering of the University of Porto, **NIFEUP**
+-  Member of the On-Board Computer department at **Porto Space Team**
 -  Two-time teaching instructor at **Universidade Júnior**, FEUP's programme for secondary-school students (2025, 2026): hands-on programming and web development sessions in the Future Computer Engineer week
 -  Teaching assistant in a school robotics course (2024–2026); 1st place, OnStage league, Portuguese National Robotics Festival 2022
 
