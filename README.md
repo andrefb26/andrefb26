@@ -1,6 +1,6 @@
 ### Hi, I'm André Baptista 
 
-I'm a third-year student in the Bachelor in Informatics and Computing Engineering (L.EIC) at **FEUP, University of Porto**. I'm interested in **systems programming, computer networks and security**: the layers where software meets hardware and where reliability matters.
+I'm a third-year Bachelor's student in Informatics and Computing Engineering (L.EIC) at **FEUP, University of Porto**. I'm particularly interested in **systems programming, computer networks, distributed systems, and cybersecurity**, with a focus on understanding and building secure, reliable, and scalable systems.
 
 -  Member of the Cybersecurity department at **ACM FEUP**
 -  Member of the Computer Engineering Student Group of the Faculty of Engineering of the University of Porto, **NIFEUP**
